@@ -1,0 +1,1 @@
+(()=>{"use strict";function c(c,a){if(!(c instanceof a))throw new TypeError("Cannot call a class as a function")}var a=new function d(a){c(this,d),this.tarea=a,this.id=new Date().getTime(),this.completado=!1,this.creado=new Date}("ir a cocinar");console.log(a)})();
